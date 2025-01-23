@@ -1,0 +1,1 @@
+data class Dfaa(val khoroji: String, val vorodi: String, val nema: String)
